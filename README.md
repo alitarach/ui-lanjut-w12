@@ -1,4 +1,4 @@
-# akulaharjuna
+# LINK LOOM SEPHIRA ALITA 1201224016 : https://www.loom.com/share/50a0339c67d34402ae4fad9b610bf6d3
 
 This template should help get you started developing with Vue 3 in Vite.
 
